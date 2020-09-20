@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[1],{AqAO:function(t,n,o){"use strict";o.d(n,"a",(function(){return s}));class s{static buildApiUri(t){return"https://cors-anywhere.herokuapp.com/http://data.somee.com/"+t}}}}]);
