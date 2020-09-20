@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[1],{AqAO:function(t,n,i){"use strict";i.d(n,"a",(function(){return s}));class s{static buildApiUri(t){return"http://data.somee.com/"+t}}}}]);
